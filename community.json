@@ -4254,6 +4254,17 @@
       ]
     },
     {
+      "project_name": "ingenue",
+      "project_url": "https://github.com/seajaysec/ingenue",
+      "author": "seajay",
+      "description": "responsive browser ui for norns. runs on the device alongside maiden.",
+      "discussion_url": "https://llllllll.co/t/ingenue-a-modern-responsive-web-interface-for-norns/74794",
+      "documentation_url": "https://github.com/seajaysec/ingenue/blob/main/README.md",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
       "project_name": "awake-ashsynth",
       "project_url": "https://github.com/nunosmash/awake-ashsynth",
       "author": "Ash",
