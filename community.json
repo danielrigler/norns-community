@@ -424,7 +424,7 @@
       "author": "justmat",
       "description": "stereo delay/looper",
       "discussion_url": "https://llllllll.co/t/23336",
-      "documen0tation_url": "https://norns.community/authors/justmat/bounds",
+      "documentation_url": "https://norns.community/authors/justmat/bounds",
       "tags": [
         "looper",
         "delay"
@@ -1250,6 +1250,17 @@
         "midi"
       ]
     },
+    {
+      "project_name": "grains",
+      "project_url": "https://github.com/danielrigler/grains",
+      "author": "dddstudio",
+      "description": "A six-voice granular sample player",
+      "discussion_url": "https://llllllll.co/t/grains/75194",
+      "tags": [
+        "granulator",
+        "audio_fx"
+      ]
+    },    
     {
       "project_name": "graintopia",
       "project_url": "https://github.com/schollz/graintopia",
